@@ -51,7 +51,7 @@
     "vue-calendar-heatmap": "^0.8.4",
     "vue-clipboard2": "^0.3.1",
     "vue-echarts": "^6.0.0",
-    "vue-float-action-button": "^0.6.6",
+    "vue-float-action-button": "^0.7.9",
     "vue-i18n": "^8.15.3",
     "vue-jsonpath-picker": "^1.1.5",
     "vue-minder-editor-plus": "1.0.39",
