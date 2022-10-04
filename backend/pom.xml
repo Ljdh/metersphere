@@ -15,7 +15,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <shiro.version>1.6.0</shiro.version>
+        <shiro.version>1.9.1</shiro.version>
         <java.version>1.8</java.version>
         <flyway.version>7.15.0</flyway.version>
     </properties>
@@ -77,7 +77,7 @@
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
-            <version>2.1.2</version>
+            <version>2.2.1</version>
         </dependency>
 
         <dependency>
@@ -103,7 +103,7 @@
         <dependency>
             <groupId>com.github.pagehelper</groupId>
             <artifactId>pagehelper</artifactId>
-            <version>5.0.3</version>
+            <version>5.3.1</version>
         </dependency>
 
         <dependency>
@@ -129,14 +129,14 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.72</version>
+            <version>1.2.83</version>
         </dependency>
 
         <!-- openapi -->
         <dependency>
             <groupId>org.springdoc</groupId>
             <artifactId>springdoc-openapi-ui</artifactId>
-            <version>1.5.6</version>
+            <version>1.6.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-rsocket -->
@@ -148,21 +148,21 @@
         <dependency>
             <groupId>io.metersphere</groupId>
             <artifactId>ms-jmeter-core</artifactId>
-            <version>1.0.2</version>
+            <version>jmeter-5.5_0</version>
         </dependency>
 
         <!--   排除jmeter中的 xstream 解决bug     -->
         <dependency>
             <groupId>com.thoughtworks.xstream</groupId>
             <artifactId>xstream</artifactId>
-            <version>1.4.18</version>
+            <version>1.4.19</version>
         </dependency>
 
         <!-- easyexcel -->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>easyexcel</artifactId>
-            <version>2.1.7</version>
+            <version>3.0.1</version>
         </dependency>
 
         <dependency>
@@ -182,7 +182,7 @@
         <dependency>
             <groupId>io.swagger.parser.v3</groupId>
             <artifactId>swagger-parser</artifactId>
-            <version>2.0.24</version>
+            <version>2.0.32</version>
         </dependency>
 
 
@@ -196,7 +196,7 @@
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
-            <version>1.14.2</version>
+            <version>1.15.3</version>
         </dependency>
 
         <dependency>
@@ -225,7 +225,7 @@
         <dependency>
             <groupId>net.sourceforge.htmlcleaner</groupId>
             <artifactId>htmlcleaner</artifactId>
-            <version>2.24</version>
+            <version>2.26</version>
         </dependency>
 
         <dependency>
@@ -242,7 +242,7 @@
         <dependency>
             <groupId>io.fabric8</groupId>
             <artifactId>kubernetes-client</artifactId>
-            <version>4.13.0</version>
+            <version>6.0.0</version>
         </dependency>
 
         <dependency>
@@ -265,7 +265,7 @@
         <dependency>
             <groupId>io.metersphere</groupId>
             <artifactId>metersphere-plugin-core</artifactId>
-            <version>1.0.1</version>
+            <version>2.0</version>
             <exclusions>
                 <exclusion>
                     <artifactId>log4j-slf4j-impl</artifactId>
@@ -277,7 +277,7 @@
         <dependency>
             <groupId>com.apifan.common</groupId>
             <artifactId>common-random</artifactId>
-            <version>1.0.7</version>
+            <version>1.0.16</version>
         </dependency>
         <dependency>
             <groupId>com.github.mifmif</groupId>
