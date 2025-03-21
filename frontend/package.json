@@ -33,7 +33,7 @@
     "jsondiffpatch": "^0.4.1",
     "jsoneditor": "^9.1.2",
     "jsonpath": "^1.1.0",
-    "jspdf": "^2.1.1",
+    "jspdf": "^3.0.1",
     "lodash.isboolean": "^3.0.3",
     "lodash.isempty": "^4.4.0",
     "lodash.isinteger": "^4.0.4",
