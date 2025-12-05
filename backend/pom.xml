@@ -77,7 +77,7 @@
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
-            <version>2.1.2</version>
+            <version>4.0.0</version>
         </dependency>
 
         <dependency>
@@ -190,7 +190,7 @@
         <dependency>
             <groupId>org.mozilla</groupId>
             <artifactId>rhino-engine</artifactId>
-            <version>1.7.13</version>
+            <version>1.7.14.1</version>
         </dependency>
 
         <dependency>
